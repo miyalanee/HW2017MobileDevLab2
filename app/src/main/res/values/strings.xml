@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Lab2buttons</string>
+    <string name="green_button">GREEN</string>
+    <string name= "blue_button">BLUE</string>
+    <string name= "mood_info">Click the button that best represents your mood</string>
+</resources>
